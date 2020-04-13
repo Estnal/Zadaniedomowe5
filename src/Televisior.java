@@ -13,6 +13,6 @@ public class Televisior {
         power = false;
     }
     void showStatus(){
-        System.out.println("Statustelewiziora: " + power);
+        System.out.println("Status telewiziora: " + power);
     }
 }
